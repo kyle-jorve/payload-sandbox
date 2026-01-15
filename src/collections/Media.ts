@@ -54,39 +54,39 @@ export const Media: CollectionConfig = {
                 width: 320,
             },
             {
-                name: "mobile-small",
+                name: "mobile_small",
                 width: 480,
             },
             {
-                name: "mobile-medium",
+                name: "mobile_medium",
                 width: 512,
             },
             {
-                name: "mobile-large",
+                name: "mobile_large",
                 width: 640,
             },
             {
-                name: "tablet-small",
+                name: "tablet_small",
                 width: 720,
             },
             {
-                name: "tablet-medium",
+                name: "tablet_medium",
                 width: 768,
             },
             {
-                name: "tablet-large",
+                name: "tablet_large",
                 width: 960,
             },
             {
-                name: "desktop-small",
+                name: "desktop_small",
                 width: 1024,
             },
             {
-                name: "desktop-medium",
+                name: "desktop_medium",
                 width: 1440,
             },
             {
-                name: "desktop-large",
+                name: "desktop_large",
                 width: 1920,
             },
         ],
